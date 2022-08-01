@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DerouicheMed/DerouicheMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="./assets/linkedin_wallpaper.jfif" height="200"/>
+  <img src="./assets/banner-1.jpg"/>
 </p>
-<br>
-<hr>
-<h3 align="left">Hi there 👋 My name is Mohamed. Welcome to my profile</h3>
+<h1 align="left">Hi there 👋 <br> My name is Mohamed. Welcome to my profile</h1>
 <small align="left">Project Manager | Full Stack Web Developer | UX/UI Enthusiast | Python Programmer </small>
 <hr>
 <p align="left">
@@ -33,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="center">Visit My Website </h3>
 <p align="center">  
   <a href="https://www.derouichemohamed.tk">
-    <img src=""
+    <img src="./assets/button.jpg" height="100">
   </a>
   
 </p>
@@ -77,4 +73,3 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=git&color=%232e2e2e)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=%232e2e2e)
-
